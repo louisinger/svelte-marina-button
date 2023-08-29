@@ -8,7 +8,6 @@ npm install -S svelte-marina-button
 yarn add svelte-marina-button
 ```
 
-
 ## Example
 
 Add to your svelte app
